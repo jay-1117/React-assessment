@@ -1,0 +1,11 @@
+.container-fluid {
+    height: 100vh;
+    /* overflow: hidden; */
+}
+.searchitem {
+    height: 50vh;
+}
+
+.list {
+    height: 50vh;
+}
